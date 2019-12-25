@@ -1,4 +1,4 @@
-# PenggenalanArrayPointer__CPP
+# PengenalanArrayPointer__CPP
 Bahan Ajar Fundamental Pemrograman C++. Pengenalan Array Pointer<br><br>
 <img src="https://github.com/RizkyKhapidsyah/PenggenalanArrayPointer__CPP/blob/master/Results/001.PNG"><br><br>
 - Lihat <a href="https://github.com/RizkyKhapidsyah/PenggenalanArrayPointer__CPP/blob/master/Source.cpp">Source Code.</a><br><br>
